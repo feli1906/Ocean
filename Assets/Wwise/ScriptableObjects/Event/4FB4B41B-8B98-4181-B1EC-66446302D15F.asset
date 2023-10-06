@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bda08a989f2649789bf8693499e1db7, type: 3}
+  m_Name: 4FB4B41B-8B98-4181-B1EC-66446302D15F
+  m_EditorClassIdentifier: 
+  objectName: Ufo
+  id: 1198168263
+  guid: 4FB4B41B-8B98-4181-B1EC-66446302D15F

@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{051C40E0-56AE-4700-3660-A832924FB4CF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SUPER Character Controller/SUPER Character Controller/SUPERCharacterAIO.cs">
+    <Files>
+      <File FileName="Assets/Mini First Person Controller/Scripts/Components/FirstPersonAudio.cs" Line="71" Column="67" />
+      <File FileName="Assets/Mini First Person Controller/Scripts/FirstPersonMovement.cs" />
+      <File FileName="Assets/SUPER Character Controller/SUPER Character Controller/SUPERCharacterAIO.cs" Line="1243" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Otra vez lo mismo" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Mini First Person Controller" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Components" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="SUPER Character Controller" expanded="True">
+                <Node name="SUPER Character Controller" expanded="True" />
+              </Node>
+              <Node name="Wwise" expanded="True">
+                <Node name="API" expanded="True">
+                  <Node name="Runtime" expanded="True">
+                    <Node name="Handwritten" expanded="True">
+                      <Node name="Common" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="MonoBehaviour" expanded="True">
+                  <Node name="Runtime" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ak.Wwise.Api.WAAPI PreferredExecutionTarget="778021df-3689-4b6f-99e4-3ff2121a26c3" />
+</Properties>
