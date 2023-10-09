@@ -15,7 +15,7 @@ public class teleport : MonoBehaviour
     {
         if (Input.GetKeyDown("1"))
         {
-            transform.position = new Vector3(0, 2, 0);
+            transform.position = new Vector3(-38, 2, -128);
             AkSoundEngine.PostEvent("teleportsound", gameObject);
         }
 

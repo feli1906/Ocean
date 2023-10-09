@@ -359,7 +359,7 @@ MonoBehaviour:
     ParentPath: Events/Default Work Unit
     guid: f7a5a68731a4054aa283b7d7c35db2fe
     GuidInternal: 
-    m_lastTime: -8585050124345875808
+    m_lastTime: -8585048118302775808
     List:
     - name: AmbMusic
       guid: 66edd8fe266f5c4dbb1fe0813d442734
@@ -514,6 +514,40 @@ MonoBehaviour:
       maxAttenuation: 0
       maxDuration: 0.27263543
       minDuration: 0.27263543
+    - name: Play_Box_two
+      guid: 1b01ba513576f846ac8e1171450f77c3
+      id: 2471964058
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: f7a5a68731a4054aa283b7d7c35db2fe
+      - ElementName: Play_Box_two
+        ObjectType: 3
+        guid: 1b01ba513576f846ac8e1171450f77c3
+      Path: Events/Default Work Unit/Play_Box_two
+      maxAttenuation: 0
+      maxDuration: 5
+      minDuration: 5
+    - name: Play_Chill_Rocky
+      guid: 321adc2229399b4bb4d88861240dd90b
+      id: 1110917513
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: f7a5a68731a4054aa283b7d7c35db2fe
+      - ElementName: Play_Chill_Rocky
+        ObjectType: 3
+        guid: 321adc2229399b4bb4d88861240dd90b
+      Path: Events/Default Work Unit/Play_Chill_Rocky
+      maxAttenuation: 0
+      maxDuration: 171.11111
+      minDuration: 171.11111
     - name: Play_Footsteps
       guid: 018a0ba3af9c5f44b237bafd69bb04bb
       id: 3854155799
@@ -531,6 +565,40 @@ MonoBehaviour:
       maxAttenuation: 0
       maxDuration: 0.8676547
       minDuration: 0.411661
+    - name: Play_frozen_ui
+      guid: cc656a0b7a78084fb9eda5ab22ee4fb4
+      id: 808094885
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: f7a5a68731a4054aa283b7d7c35db2fe
+      - ElementName: Play_frozen_ui
+        ObjectType: 3
+        guid: cc656a0b7a78084fb9eda5ab22ee4fb4
+      Path: Events/Default Work Unit/Play_frozen_ui
+      maxAttenuation: 0
+      maxDuration: 2.1473427
+      minDuration: 2.1473427
+    - name: Play_jumpo
+      guid: 5bdf4ca5f0b422439ef37c7f134ab47b
+      id: 827134161
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: f7a5a68731a4054aa283b7d7c35db2fe
+      - ElementName: Play_jumpo
+        ObjectType: 3
+        guid: 5bdf4ca5f0b422439ef37c7f134ab47b
+      Path: Events/Default Work Unit/Play_jumpo
+      maxAttenuation: 0
+      maxDuration: 2.0383673
+      minDuration: 2.0383673
     - name: Play_Mx
       guid: 4549d064a335824eb3fee652b3c3c343
       id: 2447410425
@@ -548,6 +616,40 @@ MonoBehaviour:
       maxAttenuation: 0
       maxDuration: 279.78027
       minDuration: 279.78027
+    - name: Play_Ocean
+      guid: 0218bdf63f236b42bd04fb84cf537bdf
+      id: 1724638476
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: f7a5a68731a4054aa283b7d7c35db2fe
+      - ElementName: Play_Ocean
+        ObjectType: 3
+        guid: 0218bdf63f236b42bd04fb84cf537bdf
+      Path: Events/Default Work Unit/Play_Ocean
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_Scream
+      guid: 5f389a72142ee248aa4378de9790d2d5
+      id: 2470536401
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: f7a5a68731a4054aa283b7d7c35db2fe
+      - ElementName: Play_Scream
+        ObjectType: 3
+        guid: 5f389a72142ee248aa4378de9790d2d5
+      Path: Events/Default Work Unit/Play_Scream
+      maxAttenuation: 0
+      maxDuration: 0.63856983
+      minDuration: 0.63856983
     - name: Remos
       guid: 023ba1e6c221c04f99a24e36b140e0f0
       id: 3316443993
@@ -565,6 +667,40 @@ MonoBehaviour:
       maxAttenuation: 0
       maxDuration: 2.4829574
       minDuration: 1.755716
+    - name: Stop_Chill_Rocky
+      guid: 6d6a025a0b0253439e9d5ca7a324765b
+      id: 4123744891
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: f7a5a68731a4054aa283b7d7c35db2fe
+      - ElementName: Stop_Chill_Rocky
+        ObjectType: 3
+        guid: 6d6a025a0b0253439e9d5ca7a324765b
+      Path: Events/Default Work Unit/Stop_Chill_Rocky
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Stop_Ocean
+      guid: 8bc2f16a29eaa34eb44ab5543bf3763b
+      id: 4196961906
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: f7a5a68731a4054aa283b7d7c35db2fe
+      - ElementName: Stop_Ocean
+        ObjectType: 3
+        guid: 8bc2f16a29eaa34eb44ab5543bf3763b
+      Path: Events/Default Work Unit/Stop_Ocean
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
     - name: teleportsound
       guid: 6bf2c2e708752e4b951e73a626e355e0
       id: 2064465325
@@ -630,7 +766,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 9925babad9bd59479708a1556b93a6dc
       Path: Events/Default Work Unit/VoiceBonus
-      maxAttenuation: 6
+      maxAttenuation: 10
       maxDuration: -1
       minDuration: -1
     - name: VoiceFemale
@@ -647,7 +783,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: ee02330eeb242d4ebf61169e74122aa6
       Path: Events/Default Work Unit/VoiceFemale
-      maxAttenuation: 6
+      maxAttenuation: 10
       maxDuration: -1
       minDuration: -1
     - name: VoiceMale
@@ -664,7 +800,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 9918c7b85fac26498ade1de0a05a4e3f
       Path: Events/Default Work Unit/VoiceMale
-      maxAttenuation: 6
+      maxAttenuation: 10
       maxDuration: -1
       minDuration: -1
   RtpcWwu:
@@ -1060,7 +1196,7 @@ MonoBehaviour:
         guid: 2a50afaa93afb7499e46a116b9d6f0e6
       Path: Triggers/Default Work Unit/Treasure
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 050000000600000007000000090000000a00000016000000170000001b0000001c0000001f00000020000000210000002200000024000000290000002a0000002f00000030000000390000003a0000003b0000003d000000600000006100000062000000
+  ExpandedWaapiItemIds: 050000000600000007000000090000000a000000110000001200000016000000170000001b0000001c0000001f00000020000000210000002200000023000000240000002700000028000000290000002a0000002f0000003000000031000000390000003a0000003b0000003d000000600000006100000062000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0

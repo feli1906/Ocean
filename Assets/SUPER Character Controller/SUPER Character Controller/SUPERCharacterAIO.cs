@@ -130,6 +130,7 @@ public class SUPERCharacterAIO : MonoBehaviour{
     [Range(0.0f,1.0f)] public float airControlFactor = 1;
     public float decentMultiplier = 2.5f, tapJumpMultiplier = 2.1f;
     float jumpBlankingPeriod;
+        
 
     //Sliding
     public bool isSliding, canSlide = true;
@@ -575,8 +576,9 @@ public class SUPERCharacterAIO : MonoBehaviour{
         }
         #region Animation
         UpdateAnimationTriggers(controllerPaused);
-        #endregion
-    }
+            #endregion
+            
+        }
     void FixedUpdate() {
         if(!controllerPaused){
 
@@ -874,7 +876,8 @@ public class SUPERCharacterAIO : MonoBehaviour{
         
     }
     void Jump(float Force){
-        if((currentGroundInfo.isInContactWithGround) && 
+           
+            if ((currentGroundInfo.isInContactWithGround) && 
             (currentGroundInfo.groundAngle<hardSlopeLimit) && 
             ((enableStaminaSystem && jumpingDepletesStamina)? currentStaminaLevel>s_JumpStaminaDepletion*1.2f : true) && 
             (Time.time>(jumpBlankingPeriod+0.1f)) &&
